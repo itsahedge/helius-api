@@ -26,13 +26,17 @@ An [OpenClaw](https://github.com/openclaw/openclaw) skill for querying Solana da
 
 ## Installation
 
-Drop the `helius-api` folder into your OpenClaw skills directory:
+Install from [ClawHub](https://clawhub.ai):
+
+```bash
+clawhub install helius-api
+```
+
+Or manually drop the `helius-api` folder into your OpenClaw skills directory:
 
 ```
 ~/.openclaw/skills/helius-api/
 ```
-
-Or install the packaged `.skill` file via OpenClaw.
 
 ## Structure
 
